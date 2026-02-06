@@ -1,21 +1,19 @@
 package utility;
 
-import org.apache.poi.ss.usermodel.Row.MissingCellPolicy;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.testng.annotations.DataProvider;
+import org.testng.annotations.*;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-public class ExcelUtil {
-	@DataProvider(name="DataSupplierNew")
-//	@DataProvider(name="DataSupplierNew",parallel = true,indices = {0})
+public class ExcelUtilOneDimensional {
+	@DataProvider(name="DataSupplierNew",parallel = true,indices = {0})
 	public Object[][] DataSupplier(String Path) {
-		File f = new File(".\\src\\test\\resources\\TestData.xlsx");
+		File f = new File(".\\src\\test\\resources\\TestDataOneDimensional.xlsx");
 		FileInputStream fis = null;
 		Object[][] obj = null;
 		try {
@@ -29,13 +27,13 @@ public class ExcelUtil {
 			for (int r = 0; r <rowCount; r++) {
 				XSSFRow row = ws.getRow(r+1);
 				for (int c = 0; c < colCount; c++) {
-					XSSFCell cell = row.getCell(c,MissingCellPolicy.CREATE_NULL_AS_BLANK);
+					XSSFCell cell = row.getCell(c);
 					switch (cell.getCellType()) {
 					case STRING:
 						obj[r][c] = cell.getStringCellValue();
 						break;
 					case NUMERIC:
-						obj[r][c] =Integer.toString((int)cell.getNumericCellValue());
+						obj[r][c] = (int)cell.getNumericCellValue();
 						break;
 					case BOOLEAN:
 						obj[r][c] = cell.getBooleanCellValue();
