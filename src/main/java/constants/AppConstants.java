@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class AppConstants {
+  public static final String expectedTestFireURL="http://testfire.net1/bank/main.jsp";
 	public static final String LOGIN_PAGE_TITLE = "Customer Login";
 //	public static final String LOGIN_PAGE_URL_FRACTION = "route=account/login";
 //	public static final String ACCOUNTS_PAGE_TITLE = "My Account";

@@ -56,6 +56,35 @@ public class ElementUtil {
         }
     }
 
+    public String doGetCurrentUrl() {
+        logger.info("Getting current URL");
+        extentLogInfo("Getting current URL");
+
+        try {
+            String currentUrl = driver.getCurrentUrl();
+            logger.info("Current URL: {}", currentUrl);
+            extentLogPass("Current URL retrieved: " + currentUrl);
+            return currentUrl;
+        } catch (Exception e) {
+            logger.error("Failed to get current URL: {}", e.getMessage());
+            extentLogFail("Failed to get current URL: " + e.getMessage());
+            throw e;
+        }
+    }
+
+    public String getTextFromElement(WebElement element) {
+
+        try {
+            String str=element.getText();
+            logger.info("Current Text: {}", str);
+            extentLogPass("Current URL retrieved: " + str);
+            return str;
+        } catch (Exception e) {
+            logger.error("Unable to get text: {}", e.getMessage());
+            extentLogFail("Unable to get text: " + e.getMessage());
+            throw e;
+        }
+    }
     public void doClick(WebElement element) {
         logger.info("Clicking on element");
         extentLogInfo("Clicking on element");

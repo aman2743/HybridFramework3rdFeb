@@ -94,3 +94,106 @@
 [2026-02-07 01:28:19] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
 [2026-02-07 01:28:24] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
 [2026-02-07 01:28:24] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 16:56:50] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 16:56:50] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 16:56:50] [INFO] BaseClass - Browser: chrome
+[2026-02-07 16:56:50] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 16:56:51] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 16:56:51] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 16:56:57] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 16:56:58] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:01:30] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:01:30] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:01:30] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:01:30] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:01:31] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:01:31] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:01:39] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:01:39] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:02:08] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:02:08] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:02:08] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:02:08] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:02:09] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:02:09] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:02:17] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:02:17] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:05:43] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:05:43] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:05:43] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:05:43] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:05:44] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:05:44] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:05:50] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:05:51] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:20:40] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:20:40] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:20:40] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:20:40] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:20:44] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:20:44] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:20:52] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:20:52] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:22:31] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:22:31] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:22:31] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:22:31] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:22:33] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:22:33] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:22:42] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:22:43] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:24:15] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:24:15] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:24:15] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:24:15] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:24:19] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:24:19] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:24:32] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:24:32] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 18:01:46] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 18:01:47] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 18:01:47] [INFO] BaseClass - Browser: chrome
+[2026-02-07 18:01:47] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 18:01:50] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 18:01:50] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 18:01:55] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 18:01:55] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 18:04:54] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 18:04:55] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 18:04:55] [INFO] BaseClass - Browser: chrome
+[2026-02-07 18:04:55] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 18:04:56] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 18:04:56] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 18:05:01] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 18:05:02] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 18:05:48] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 18:05:48] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 18:05:48] [INFO] BaseClass - Browser: chrome
+[2026-02-07 18:05:48] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 18:05:49] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 18:05:49] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 18:05:53] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 18:05:53] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 18:05:55] [INFO] BaseClass - ========== Test Execution Complete - Cleaning Up ==========
+[2026-02-07 18:05:55] [INFO] BaseClass - Quitting WebDriver
+[2026-02-07 18:05:55] [INFO] BaseClass - ========== Cleanup Complete ==========

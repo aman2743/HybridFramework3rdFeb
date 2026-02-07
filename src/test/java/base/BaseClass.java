@@ -73,16 +73,16 @@ public class BaseClass {
         extentTests.set(test);
     }
 
-//@AfterTest
-//public void tearDown() {
-//    logger.info("========== Test Execution Complete - Cleaning Up ==========");
-//    if (getDriver() != null) {
-//        logger.info("Quitting WebDriver");
-//        getDriver().quit();
-//
-//    }
-//    drivers.remove();// Critical for thread cleanup
-//    extentTests.remove();
-//    logger.info("========== Cleanup Complete ==========");
-//}
+@AfterTest
+public void tearDown() {
+    logger.info("========== Test Execution Complete - Cleaning Up ==========");
+    if (getDriver() != null) {
+        logger.info("Quitting WebDriver");
+        getDriver().quit();
+
+    }
+    drivers.remove();// Critical for thread cleanup
+    extentTests.remove();
+    logger.info("========== Cleanup Complete ==========");
+}
 }

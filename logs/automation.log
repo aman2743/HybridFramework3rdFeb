@@ -129,3 +129,189 @@
 [2026-02-07 01:28:24] [DEBUG] ElementUtil - Text entered successfully
 [2026-02-07 01:28:24] [INFO] ElementUtil - Clicking on element
 [2026-02-07 01:28:26] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 16:56:50] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 16:56:50] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 16:56:50] [INFO] BaseClass - Browser: chrome
+[2026-02-07 16:56:50] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 16:56:51] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 16:56:51] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 16:56:57] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 16:56:58] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 16:56:58] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 16:56:58] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 16:56:59] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 16:56:59] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 16:57:00] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 16:57:00] [INFO] ElementUtil - Clicking on element
+[2026-02-07 16:57:02] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 17:01:30] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:01:30] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:01:30] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:01:30] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:01:31] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:01:31] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:01:39] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:01:39] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:01:39] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 17:01:39] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 17:01:39] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:01:39] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 17:01:40] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:01:40] [INFO] ElementUtil - Clicking on element
+[2026-02-07 17:01:41] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 17:02:08] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:02:08] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:02:08] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:02:08] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:02:09] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:02:09] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:02:17] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:02:17] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:02:17] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 17:02:17] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 17:02:18] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:02:18] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 17:02:18] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:02:18] [INFO] ElementUtil - Clicking on element
+[2026-02-07 17:02:19] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 17:05:43] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:05:43] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:05:43] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:05:43] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:05:44] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:05:44] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:05:50] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:05:51] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:05:51] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 17:05:51] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 17:05:51] [ERROR] ElementUtil - Failed to enter text 'jsmith': no such element: Unable to locate element: {"method":"css selector","selector":"#uid12"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1b509f291701c6455af4101e1c1d2542, findElement {using=id, value=uid12}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\AMANKU~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58493}, goog:processID: 34004, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58493/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b509f291701c6455af4101e1c1d2542
+[2026-02-07 17:20:40] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:20:40] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:20:40] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:20:40] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:20:44] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:20:44] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:20:52] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:20:52] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:20:53] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 17:20:54] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 17:20:54] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:20:54] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 17:20:55] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:20:55] [INFO] ElementUtil - Clicking on element
+[2026-02-07 17:20:57] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 17:20:57] [INFO] ElementUtil - Getting current URL
+[2026-02-07 17:20:57] [INFO] ElementUtil - Current URL: http://testfire.net/bank/main.jsp
+[2026-02-07 17:22:31] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:22:31] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:22:31] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:22:31] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:22:33] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:22:33] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:22:42] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:22:43] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:22:43] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 17:22:43] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 17:22:44] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:22:44] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 17:22:44] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:22:44] [INFO] ElementUtil - Clicking on element
+[2026-02-07 17:22:45] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 17:22:45] [INFO] ElementUtil - Getting current URL
+[2026-02-07 17:22:46] [INFO] ElementUtil - Current URL: http://testfire.net/bank/main.jsp
+[2026-02-07 17:24:15] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 17:24:15] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 17:24:15] [INFO] BaseClass - Browser: chrome
+[2026-02-07 17:24:15] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 17:24:19] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 17:24:19] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 17:24:32] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 17:24:32] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 17:24:32] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 17:24:33] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 17:24:34] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:24:34] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 17:24:35] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 17:24:35] [INFO] ElementUtil - Clicking on element
+[2026-02-07 17:24:36] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 17:24:36] [INFO] ElementUtil - Getting current URL
+[2026-02-07 17:24:37] [INFO] ElementUtil - Current URL: http://testfire.net/bank/main.jsp
+[2026-02-07 18:01:46] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 18:01:47] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 18:01:47] [INFO] BaseClass - Browser: chrome
+[2026-02-07 18:01:47] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 18:01:50] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 18:01:50] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 18:01:55] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 18:01:55] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 18:01:55] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 18:01:56] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 18:01:56] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 18:01:56] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 18:01:56] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 18:01:56] [INFO] ElementUtil - Clicking on element
+[2026-02-07 18:01:57] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 18:01:57] [INFO] ElementUtil - Current Text: Hello John Smith
+[2026-02-07 18:04:54] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 18:04:55] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 18:04:55] [INFO] BaseClass - Browser: chrome
+[2026-02-07 18:04:55] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 18:04:56] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 18:04:56] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 18:05:01] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 18:05:02] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 18:05:02] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 18:05:02] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 18:05:02] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 18:05:02] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 18:05:02] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 18:05:02] [INFO] ElementUtil - Clicking on element
+[2026-02-07 18:05:04] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 18:05:04] [INFO] ElementUtil - Current Text: Hello John Smith
+[2026-02-07 18:05:48] [INFO] BaseClass - Config file loaded successfully
+[2026-02-07 18:05:48] [INFO] Utils - [TestNG] Running:
+  C:\Users\Aman Kumar\IdeaProjects\HybridFramework3rdFebNew\testng.xml
+
+[2026-02-07 18:05:48] [INFO] BaseClass - Browser: chrome
+[2026-02-07 18:05:48] [INFO] BaseClass - URL: http://testfire.net/login.jsp
+[2026-02-07 18:05:49] [INFO] WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+[2026-02-07 18:05:49] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Aman Kumar\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+[2026-02-07 18:05:53] [INFO] BaseClass - Navigating to URL: http://testfire.net/login.jsp
+[2026-02-07 18:05:53] [INFO] BaseClass - Initializing Page Objects
+[2026-02-07 18:05:53] [INFO] ElementUtil - ElementUtil initialized with driver: ChromeDriver
+[2026-02-07 18:05:53] [INFO] ElementUtil - Entering text 'jsmith' into element
+[2026-02-07 18:05:53] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 18:05:53] [INFO] ElementUtil - Entering text 'demo1234' into element
+[2026-02-07 18:05:54] [DEBUG] ElementUtil - Text entered successfully
+[2026-02-07 18:05:54] [INFO] ElementUtil - Clicking on element
+[2026-02-07 18:05:55] [DEBUG] ElementUtil - Click performed successfully
+[2026-02-07 18:05:55] [INFO] ElementUtil - Current Text: Hello John Smith
+[2026-02-07 18:05:55] [INFO] BaseClass - ========== Test Execution Complete - Cleaning Up ==========
+[2026-02-07 18:05:55] [INFO] BaseClass - Quitting WebDriver
+[2026-02-07 18:05:55] [INFO] BaseClass - ========== Cleanup Complete ==========

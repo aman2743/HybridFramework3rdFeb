@@ -1,4 +1,5 @@
 package pageClasses;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -21,6 +22,9 @@ public class LoginPage {
     @FindBy(name = "btnSubmit")  // Prefer name over XPath
     private WebElement loginButton;
 
+    @FindBy(xpath="/html/body/table[2]/tbody/tr/td[2]/div/h1")
+    private WebElement welcomeTextElement;
+
     // Constructor
     public LoginPage(WebDriver driver) {
         System.out.println("inside LoginPage constructor");
@@ -40,16 +44,25 @@ public class LoginPage {
     }
 
     // Alternative: Fluent pattern (returns next page)
-//    public HomePage loginAndGoToHome(String username, String password) {
-//        login(username, password);
-//        return new HomePage(driver);
-//    }
+    public HomePage loginAndGoToHome(String username, String password) {
+        login(username, password);
+        return new HomePage(driver);
+    }
 
     // Optional: Verification method
-//    public boolean isLoginSuccessful() {
-//         return eleUtil.isElementVisible(successMessage);
-//        return true; // placeholder
-//    }
+    public String currentURL() {
+         return eleUtil.doGetCurrentUrl();
+    }
+
+    public boolean isWelcomeTextShown() {
+            String str=eleUtil.getTextFromElement(welcomeTextElement);
+            if(!str.isEmpty()){
+                return true;
+            }
+            else{
+                return false;
+            }
+    }
 }
 
 
